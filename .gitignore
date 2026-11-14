@@ -1,0 +1,7 @@
+*.o
+titankv-server
+bench
+titankv-cli
+data/
+*.wal
+*.wal.tmp
